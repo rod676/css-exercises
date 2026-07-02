@@ -22,10 +22,8 @@ body {
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
-  display:flex;
-  gap : 20px; 
-  justify-content: center;
-  align-content: center;
+   display:flex;
+   gap : 20px; 
   padding: 0;
 }
 
